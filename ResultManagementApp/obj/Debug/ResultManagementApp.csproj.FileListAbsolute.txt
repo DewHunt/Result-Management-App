@@ -1,0 +1,16 @@
+D:\DotNet\ResultManagementApp\ResultManagementApp\bin\Debug\ResultManagementApp.exe.config
+D:\DotNet\ResultManagementApp\ResultManagementApp\bin\Debug\ResultManagementApp.exe
+D:\DotNet\ResultManagementApp\ResultManagementApp\bin\Debug\ResultManagementApp.pdb
+D:\DotNet\ResultManagementApp\ResultManagementApp\obj\Debug\ResultManagementApp.csprojAssemblyReference.cache
+D:\DotNet\ResultManagementApp\ResultManagementApp\obj\Debug\ResultManagementApp.ClassEntryUI.resources
+D:\DotNet\ResultManagementApp\ResultManagementApp\obj\Debug\ResultManagementApp.Properties.Resources.resources
+D:\DotNet\ResultManagementApp\ResultManagementApp\obj\Debug\ResultManagementApp.csproj.GenerateResource.cache
+D:\DotNet\ResultManagementApp\ResultManagementApp\obj\Debug\ResultManagementApp.csproj.CoreCompileInputs.cache
+D:\DotNet\ResultManagementApp\ResultManagementApp\obj\Debug\ResultManagementApp.exe
+D:\DotNet\ResultManagementApp\ResultManagementApp\obj\Debug\ResultManagementApp.pdb
+D:\DotNet\ResultManagementApp\ResultManagementApp\obj\Debug\ResultManagementApp.UI.Home.resources
+D:\DotNet\ResultManagementApp\ResultManagementApp\obj\Debug\ResultManagementApp.UI.SubjectEntryUI.resources
+D:\DotNet\ResultManagementApp\ResultManagementApp\obj\Debug\ResultManagementApp.UI.StudentEntryUI.resources
+D:\DotNet\ResultManagementApp\ResultManagementApp\obj\Debug\ResultManagementApp.UI.ResultEntryUI.resources
+D:\DotNet\ResultManagementApp\ResultManagementApp\obj\Debug\ResultManagementApp.UI.IndividualResultUI.resources
+D:\DotNet\ResultManagementApp\ResultManagementApp\obj\Debug\ResultManagementApp.UI.ClassWiseResultUI.resources

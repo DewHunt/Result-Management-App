@@ -1,0 +1,1 @@
+This is dot net small projectonly for practice. Used C# and Microsoft SQL Server 2019.
